@@ -1,0 +1,10 @@
+## Ignore Visual Studio & Build artifacts
+.vs/
+[Bb]in/
+[Oo]bj/
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
